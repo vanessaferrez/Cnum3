@@ -29,12 +29,10 @@ Edite o arquivo de programação “main.sce”.
 
 **Github**
 
-Faça o fork do projeto para sua conta.
+Faça o fork do projeto para sua conta. Atualize a configuração do actions.
 
-*git clone LINK.git*
-
-*git remote add upstream USERNAME/LINK.git*
+*git clone USERNAME/LINK.git*
 
 *git commit -am “Comentário”*
 
-*git push upstream master*
+*git push*
